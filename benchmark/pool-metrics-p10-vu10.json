@@ -1,0 +1,6 @@
+{
+  "maxPool": 10,
+  "peakActive": 0,
+  "peakPending": 0,
+  "minIdle": 10
+}

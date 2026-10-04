@@ -1,0 +1,480 @@
+{
+  "createdAt": "2026-09-29T08:20:11.655Z",
+  "independentPairs": [
+    {
+      "sender": "0b949616-8243-4009-b51a-2e6239353415",
+      "receiver": "cad933db-80db-4b46-b3cc-759b737ad4d8"
+    },
+    {
+      "sender": "b2ea1e15-21cf-40be-b2a5-5cb750317261",
+      "receiver": "a1be7363-6115-4720-b63f-ef3b671b00c3"
+    },
+    {
+      "sender": "3a48b92f-0195-41c3-a6cc-0f10296a4cd1",
+      "receiver": "8ad5cc82-b2ed-45e2-923d-2c365b068b5e"
+    },
+    {
+      "sender": "bd2f32c9-50b4-4c9f-bee4-98eca846befa",
+      "receiver": "f75c225e-4233-409a-b7b6-20b6a7dbc676"
+    },
+    {
+      "sender": "89c5786c-0b19-4dea-b075-c83b93404b24",
+      "receiver": "c194e2d6-a3a5-4652-b413-647123a550ec"
+    },
+    {
+      "sender": "1b1a4a61-dcea-4435-ac79-c89ce6b019f5",
+      "receiver": "d3de810f-8de6-46e6-9379-8f2e94738fa7"
+    },
+    {
+      "sender": "e53de607-8698-4527-8b4b-e64b00053937",
+      "receiver": "2bcf78bb-44dc-4c53-a049-fc7258647bae"
+    },
+    {
+      "sender": "adb2fa6c-fc1e-4fee-a35f-bd0c793905ea",
+      "receiver": "d9857d3d-000d-4e60-8a4a-36c60ef9002a"
+    },
+    {
+      "sender": "aea2d149-ec05-4cef-b799-bb27e15f5ca0",
+      "receiver": "76fc4d2d-4ab6-45fe-9a50-c8f5193c860b"
+    },
+    {
+      "sender": "4a42c74c-6963-4b01-b2aa-ef2aaa8f78a4",
+      "receiver": "563a9175-18d7-4cea-b07e-4e9b619758cf"
+    },
+    {
+      "sender": "ea4d04d4-ad68-48cf-95a8-0dd14e2b7f84",
+      "receiver": "17997f5a-408d-4257-a28b-576c811f84cf"
+    },
+    {
+      "sender": "75d22522-f0e9-4097-8cb0-5d2fab27b518",
+      "receiver": "59555ddc-bbe7-402b-9ebb-cd1a360ebf38"
+    },
+    {
+      "sender": "cc66cd26-5a72-4bbe-9df2-240fa3e5d5de",
+      "receiver": "b29be85d-c384-47ce-815d-a21c5f5c2203"
+    },
+    {
+      "sender": "afcee0ce-03cf-4674-8a83-422750b1324e",
+      "receiver": "ce37fb46-ac82-4440-bd8e-9995bafa7ffd"
+    },
+    {
+      "sender": "19e0ff67-0b9c-40ab-9c7a-a344ea92432c",
+      "receiver": "8a080be3-191e-4c0b-b953-fda061eb15a0"
+    },
+    {
+      "sender": "6ed0ad08-535b-4412-9904-61e05bbc7d58",
+      "receiver": "9063231b-0887-429a-8be1-af260a4f5ef7"
+    },
+    {
+      "sender": "676627cc-7864-4104-ac99-9554acbd7fe7",
+      "receiver": "caa0a44a-6b3e-4456-8e54-87167869ad25"
+    },
+    {
+      "sender": "6ce7e810-7bec-4bf2-962c-fabd786a20c9",
+      "receiver": "b16f788a-cc94-4036-a6ff-ad8357cc0bc8"
+    },
+    {
+      "sender": "54b6ed62-d749-4dc8-ab66-b9c2b5b68696",
+      "receiver": "99eb39a1-6e82-4a9e-9429-99aafa26c64f"
+    },
+    {
+      "sender": "7da4315c-74f1-42dd-b214-023b9e1f623e",
+      "receiver": "300c3593-d938-4dba-b1ff-de1aecdb068a"
+    },
+    {
+      "sender": "c2f613f6-2b79-42e5-8dd2-4fcfb5ad4c96",
+      "receiver": "71197dea-f55c-4f2b-a670-142cac210045"
+    },
+    {
+      "sender": "97d0d2d9-4b2c-457d-a608-604a1a957645",
+      "receiver": "26e46a53-d4cd-49e4-a3bc-80e493cf2481"
+    },
+    {
+      "sender": "4072bd57-f466-4a46-81d8-5567ca1c9bff",
+      "receiver": "5ecaf517-a4bd-4ed0-a060-3672fa09cfbe"
+    },
+    {
+      "sender": "05f50146-aafa-4cd6-91f8-2bbc932c3b69",
+      "receiver": "ee467c42-b6d0-41db-bd8a-31b46656062a"
+    },
+    {
+      "sender": "90358fe7-baea-48c0-876a-d82d861d3de9",
+      "receiver": "0ff6103f-b726-46b9-9555-a287025e12a3"
+    },
+    {
+      "sender": "7963aa92-42d3-4def-8201-dfaa7d2f16e4",
+      "receiver": "7f9e43e4-fc0d-470d-9bee-cea803997f69"
+    },
+    {
+      "sender": "32865386-0ce8-4e2e-97db-b990b9f6e88f",
+      "receiver": "c39044ce-44c2-48c5-b580-b717f08df0ed"
+    },
+    {
+      "sender": "7f37d7ef-fe5c-4e5b-a7d0-3fc52dea4bef",
+      "receiver": "6acf95af-ea14-4145-9153-4430e5e89b44"
+    },
+    {
+      "sender": "ac2807ad-cf1b-4f09-851e-a9f50f2c9c82",
+      "receiver": "7dec1440-1243-4171-802a-c232252fdb8a"
+    },
+    {
+      "sender": "1da4e25c-e46e-4ab3-aab9-c5bd11e80289",
+      "receiver": "ebc19828-7432-4f0c-861d-b3f0e42c8584"
+    },
+    {
+      "sender": "5d9c4c23-00d6-4a99-b914-23056cac131d",
+      "receiver": "9fe58149-ae26-46b5-92e9-3d7d8f1747e5"
+    },
+    {
+      "sender": "7d2d98a7-2314-4377-b925-9a78bae69ece",
+      "receiver": "d14a4b21-b20f-4673-81f4-1d34e6907bc7"
+    },
+    {
+      "sender": "16155ad8-a8a7-487f-8c3f-45465dd7836f",
+      "receiver": "86c8ef19-fc6e-427c-b181-1a969bc9f710"
+    },
+    {
+      "sender": "71a4f9e6-2ae0-4d52-ab7d-356d5149b3d7",
+      "receiver": "5f9bb2fa-b3ee-465e-b221-42badcdf512d"
+    },
+    {
+      "sender": "4450bc44-4b7e-4fec-a5e3-34987cea83b3",
+      "receiver": "342d6157-4365-4ced-8bd8-2679c19fe9de"
+    },
+    {
+      "sender": "d99b6ba3-5de1-4ce1-abb5-b0f7bebefc05",
+      "receiver": "d6c5c533-f1ad-43b0-944c-4bf1d6d3d639"
+    },
+    {
+      "sender": "7288ca9f-88cf-4a72-a8a6-9e9178428387",
+      "receiver": "771415c8-8220-49b3-9ae9-7fedee893a62"
+    },
+    {
+      "sender": "38205864-a19e-4c3c-ab78-7d4847d81bab",
+      "receiver": "6b36a879-98ad-4c80-80c1-c771cd512a9e"
+    },
+    {
+      "sender": "072a21c7-0719-4176-84b6-6f05c4b52160",
+      "receiver": "5cd82f95-c6ab-441f-a4d2-94c73c763fd3"
+    },
+    {
+      "sender": "7269f1fb-edb8-4102-beb5-15ba51593559",
+      "receiver": "a7695fb7-8719-47db-9c6f-2271318022fd"
+    },
+    {
+      "sender": "49b885e0-4305-4795-9323-b9defd0641d4",
+      "receiver": "24308890-5dda-4029-be69-d9cc5f920d7d"
+    },
+    {
+      "sender": "3f96a4da-9e90-4008-9675-ae453f25bb9a",
+      "receiver": "862afdd7-2cc2-43a7-bd9b-3df8917e6e5e"
+    },
+    {
+      "sender": "ef84256f-1426-4e51-bb1b-3041b6b5ce9c",
+      "receiver": "b2ed18b5-6360-4ef5-a84f-e4f9490c0564"
+    },
+    {
+      "sender": "fe654b4f-c5dc-4210-a29d-12b390339041",
+      "receiver": "94f4c7db-55bf-4efd-be23-4a5b375368d1"
+    },
+    {
+      "sender": "13fbfa0f-9a63-4944-ab13-e5a8ed57c1fa",
+      "receiver": "62a00293-3102-4c08-9dfd-933f98e661ef"
+    },
+    {
+      "sender": "19e88a94-61b2-40ac-9869-33696c300d8d",
+      "receiver": "38605176-ea06-4daf-9e78-ff472bc6aa8a"
+    },
+    {
+      "sender": "88d70d76-fed2-4134-acdb-33aae7b368df",
+      "receiver": "f7043fa7-2e1a-4b9e-8236-fd3502112665"
+    },
+    {
+      "sender": "a9c5b08d-f539-47c8-aeb7-759b313fbf9d",
+      "receiver": "f9b789f7-abc7-4e62-8168-26846447d732"
+    },
+    {
+      "sender": "bcbd82b2-5104-4fc0-9699-d723813e9900",
+      "receiver": "0437e1fc-2d2d-4bad-9b30-a05fcccbf64f"
+    },
+    {
+      "sender": "5fdb7e66-6f65-4df1-8965-c76b0d1cbb8d",
+      "receiver": "3542c3f6-05b0-4ed8-bbfd-ac738d999387"
+    },
+    {
+      "sender": "b9b3006c-a413-4b43-8787-03542b5e3db0",
+      "receiver": "9f0db952-cdfa-4355-ab8b-ea530f23e67e"
+    },
+    {
+      "sender": "b169f3b7-4b11-4375-9880-991d58bf8f1b",
+      "receiver": "319ca3fe-0506-43e8-94c7-d963af80c128"
+    },
+    {
+      "sender": "27562b5a-0a22-4291-abc9-f7fc75930753",
+      "receiver": "00bba5b2-5d48-47cb-9dfb-ae8b4a39f72d"
+    },
+    {
+      "sender": "d5307d43-dd18-4206-ae80-ae6a4cabbfea",
+      "receiver": "9b4c5f48-7602-444b-a6bd-fbb1ca325ca8"
+    },
+    {
+      "sender": "984ee593-25d3-41ee-b1e8-b7553d523158",
+      "receiver": "e1aa1807-32e1-4c3b-bf67-a832ad89d019"
+    },
+    {
+      "sender": "edd6fad0-c5eb-47bc-ac93-aaa93e105fc2",
+      "receiver": "94839396-d48b-46b8-b599-a15091e57fa8"
+    },
+    {
+      "sender": "36d9c23b-7832-4081-add2-ecf052045969",
+      "receiver": "ea168caa-e488-462a-b2d3-5b5884f22d2e"
+    },
+    {
+      "sender": "f048470b-c260-4d06-9705-8de9f78a09ab",
+      "receiver": "cfeb3240-6c4b-4253-a168-d6d4fe58d3de"
+    },
+    {
+      "sender": "4984a245-203c-49a0-9713-19ac0052c62f",
+      "receiver": "5191644d-eb4d-4ff1-8edd-17e97316341b"
+    },
+    {
+      "sender": "1cc4bd4a-d8b5-46dd-9e02-33b5ae0f020e",
+      "receiver": "f6287985-3a6a-4269-9c00-23ed898a9d53"
+    },
+    {
+      "sender": "015d2228-1df9-4fd8-b726-f9c9ad259c46",
+      "receiver": "389d3f31-b284-41ca-a35e-99806fd981d3"
+    },
+    {
+      "sender": "28f15e77-7ded-4eb9-8eb8-6a6944584ed0",
+      "receiver": "554dadc7-aba3-4dd4-b97b-d35fac6e3ca3"
+    },
+    {
+      "sender": "356008fe-903e-41d9-bab5-a4c20ea07d0e",
+      "receiver": "1367ce06-5938-4ec0-b6ba-29cdb11d80e2"
+    },
+    {
+      "sender": "e64051d0-3e38-4581-bbc1-648c33a4e755",
+      "receiver": "1e9aa96c-a52a-44c4-9854-05ce16d1f7d5"
+    },
+    {
+      "sender": "9a30c434-d5e8-4b96-8506-0924f8df1988",
+      "receiver": "bd7b9208-2318-4af4-b362-bcaf17c184af"
+    },
+    {
+      "sender": "c70ef326-8d14-4d65-841a-1f408f018e82",
+      "receiver": "4f53d53d-0cfc-4563-bcf0-7ab8e92e4266"
+    },
+    {
+      "sender": "482afc9b-9202-488d-8b5b-1726b56d4be6",
+      "receiver": "151da03e-acac-46b4-a5d3-51b9e84fa942"
+    },
+    {
+      "sender": "3c8e3fd8-0d9f-408a-ae01-6d957f5bf33d",
+      "receiver": "ba822d5f-04dd-45ef-a008-cc76b179ac1d"
+    },
+    {
+      "sender": "76431921-a996-446a-b0d8-8c6064d93dac",
+      "receiver": "c0317826-5ee0-4082-8edb-3466d16e5ecb"
+    },
+    {
+      "sender": "910c7ffb-9867-432f-bf55-e12ccb1390b5",
+      "receiver": "6dfa420c-e4ee-4f3e-a897-797ea68c33a9"
+    },
+    {
+      "sender": "97def805-9d9d-42ff-b378-ff12fd6244d0",
+      "receiver": "647b26fe-822f-4fd1-9f01-6e812bc3ad9f"
+    },
+    {
+      "sender": "694e687d-1ef8-43b7-9ca9-24fc5e315b72",
+      "receiver": "edd1b84e-1e9f-4835-95fd-d1fc19dd07c9"
+    },
+    {
+      "sender": "c8e916e1-2b01-458d-9ea7-60f312d2ae72",
+      "receiver": "71a586b5-2d4f-4bb6-9803-1293090f7e20"
+    },
+    {
+      "sender": "e5100135-e2bd-4ae6-9648-2884a69bb5bf",
+      "receiver": "b3be0bbb-108b-469a-ac11-de18b7100d44"
+    },
+    {
+      "sender": "3dc1a4de-34f7-4877-ac18-a8b377ee2e8f",
+      "receiver": "28252920-9168-4c14-9da9-4e056d135bae"
+    },
+    {
+      "sender": "8a0d7dcd-6922-40e9-8766-1e49a32a0ba8",
+      "receiver": "0daef5e4-280c-4b57-b4c6-b8c78852ab08"
+    },
+    {
+      "sender": "d9a7b6f2-32f9-4aa8-91a9-2f4484fb5c2c",
+      "receiver": "70137c63-7373-46e3-afb5-c3cf7b5e39a6"
+    },
+    {
+      "sender": "127911f2-5e42-48df-8259-341c5b409951",
+      "receiver": "02c95602-5406-4022-80d7-03cbe63dde55"
+    },
+    {
+      "sender": "69af4d75-2b22-491a-afd6-774e164a696d",
+      "receiver": "9aa67f9e-e208-4c43-9d34-973d0199efa4"
+    },
+    {
+      "sender": "d729d37f-95a4-47e1-85eb-6f10128e884d",
+      "receiver": "b107fcf9-4edf-401c-94ae-fa1baf3f603e"
+    },
+    {
+      "sender": "66579379-96ee-4570-a26a-d171be0ef8ab",
+      "receiver": "e6293049-97ca-4d66-b209-0210d8006212"
+    },
+    {
+      "sender": "bd48ab1b-a874-427c-86c4-f1b4e87168f6",
+      "receiver": "d78c2969-fd8e-41fa-8d7d-fe9bbc64fb06"
+    },
+    {
+      "sender": "6fe179fd-2ed3-4e15-9356-3fc490775871",
+      "receiver": "4e6ef4ae-1642-4544-a831-fea33e079636"
+    },
+    {
+      "sender": "31e6077a-2e19-4259-8cf9-24914924e066",
+      "receiver": "b5f586fd-3cc6-4168-9adc-433dd4a801c0"
+    },
+    {
+      "sender": "a29e2d67-691a-4578-9fa6-b3eae8a22886",
+      "receiver": "1038ff81-4262-4b4e-8e68-bf3699faaf09"
+    },
+    {
+      "sender": "79e433c7-8ff1-42b7-bad1-eee26921443a",
+      "receiver": "16397105-4d13-4d66-836a-bb2db4fd22d5"
+    },
+    {
+      "sender": "cdb9a6b0-3802-46dd-9de8-0427d4f02207",
+      "receiver": "35664cfc-cd4e-4c1c-afaf-57d2e6aa32ed"
+    },
+    {
+      "sender": "1951a34d-c7ec-4acc-b986-8853b4998898",
+      "receiver": "5cb8d30b-d2d8-4390-8df6-7cbef3233cb2"
+    },
+    {
+      "sender": "2c3f3816-c952-4036-ad66-a3785239c974",
+      "receiver": "a605ad3e-6900-4e9d-a5cc-8e5c27985ffa"
+    },
+    {
+      "sender": "09e99f4a-8196-4eb0-82bd-f3b509a2f75a",
+      "receiver": "14531242-a2d3-48d1-b18f-a9f5e52d1557"
+    },
+    {
+      "sender": "ca42cef3-9d6e-4c15-95d6-1158d5cf6568",
+      "receiver": "5a8b07a6-d699-4e7b-a8b6-a5bd3d6987e0"
+    },
+    {
+      "sender": "f3ac19f0-7357-4e3f-80b8-4ed10b18ad26",
+      "receiver": "d02e3086-57d1-4916-8b6d-5557bff0a7a5"
+    },
+    {
+      "sender": "282a556b-ffff-42b7-9c27-7aa8e0968d88",
+      "receiver": "845761be-a277-448a-b9d0-41b94721fc4f"
+    },
+    {
+      "sender": "5e59c11d-e0bb-4c44-ad81-229be3efe6af",
+      "receiver": "61254d52-11e8-494a-b60a-f2bb29e5bb4b"
+    },
+    {
+      "sender": "47921046-3ca0-4725-b52e-d6d06658b7a9",
+      "receiver": "727095fe-edf4-4ad0-b5d2-ef63395b21dc"
+    },
+    {
+      "sender": "47af8bb2-f762-4c71-a776-59d8e5e52159",
+      "receiver": "9e10cf91-63bb-4c28-a57b-03f38be2b59b"
+    },
+    {
+      "sender": "2982b6a8-bc53-45fc-876e-a242f8650975",
+      "receiver": "9c523389-d1e8-47f3-8136-472a3e24fb5f"
+    },
+    {
+      "sender": "b334cbe6-da18-449f-8902-10eaf41dcd8c",
+      "receiver": "7d20564c-32f2-4d1a-8701-f674c7157907"
+    },
+    {
+      "sender": "efec503c-b817-4d09-9af9-d4dfa8f2bc00",
+      "receiver": "958c1137-69ec-4342-a877-5acf263d1d57"
+    },
+    {
+      "sender": "0bf9fafc-c114-47dd-9fa9-48bd49236c18",
+      "receiver": "dc366033-8723-46d6-931b-14941ae7a10f"
+    }
+  ],
+  "hotSender": "8d82595a-1086-44ec-a495-0f8ee3156c75",
+  "hotReceivers": [
+    "aea48f48-451c-4b10-8542-298c19b3f126",
+    "b3380782-c850-4390-8d33-b246133434d5",
+    "8e608912-6271-4918-99c3-2fd7a700e836",
+    "789d797a-a822-4c06-8c26-cb4b6852079c",
+    "36f572a4-980b-498f-ba35-d48069b9e1d2",
+    "99404aa9-cd39-4caf-ba42-c03f35db1c6a",
+    "899b13fb-3ed5-454b-bead-510e2f17a0c1",
+    "2309ac87-d558-42e1-a5f7-8bcc57f33094",
+    "201f2797-0017-4246-a045-e5a2e5493af4",
+    "2479dbc3-d52b-441d-8340-4a313ea326e4",
+    "40292574-c9c1-4b99-8182-e8b5f41020fd",
+    "8c3396a7-3182-4922-9070-985077436e30",
+    "0a628794-ada3-49f2-a93a-7a78194fefbd",
+    "77ca6e73-9a3a-4c90-8d04-d53775468f91",
+    "df4d2299-a343-43e0-976e-385f1bdd445b",
+    "2b0056e7-10c6-4383-8298-84eef3e77b6f",
+    "bdde3581-fe78-4616-9f9b-bc949c4dabfc",
+    "b6dfde23-335c-46ae-ac75-5c827809b37a",
+    "99d02ef5-dfa7-497b-ba20-198c1a7aa800",
+    "d06451f0-8cc5-4768-8f59-50218745ddb9",
+    "697dc648-0e95-4731-8ba5-ccf1c2d3bdaf",
+    "9aa045ce-196b-45fd-b13d-9c6de1c3da0a",
+    "9cd288ac-6f77-4223-b671-a96a54c8a657",
+    "57160834-af3b-498a-998c-144da7cabbec",
+    "d67c7705-906d-441a-a7ee-8052b6ecfaff",
+    "fcbd278f-65c3-4b36-981f-064ff47a4282",
+    "0b283172-756c-4ecc-a07f-da528bc7e229",
+    "52791d6f-3fb2-44f0-82f1-265ccf293110",
+    "af3d66db-590f-4a50-938d-e719c1665d50",
+    "72061203-bb73-47c1-aac9-536c61d70a7f",
+    "39425193-7c03-4087-8e09-81282014ad28",
+    "7731f644-c00a-428d-bbc8-3e367e0814ee",
+    "4941ec95-7187-46de-b4e3-9786bfad6a47",
+    "9c78a917-eef4-4414-9317-0eabaccc524c",
+    "1708c5b7-9a6b-4e85-bdf1-4c8a3dfa36b2",
+    "8be6c625-ae4b-4e11-b63d-36d89f57ebec",
+    "e6010ebd-e951-4306-81b6-df8ba514b449",
+    "567f28a1-9870-4d0a-a16f-e6cc50bb7647",
+    "b4c4f3bf-90ad-4d00-b09a-e73e1564ef28",
+    "c9b14c9e-10b1-4d7d-8fb2-2662eb2e2c19",
+    "e99dd490-af41-4071-96ea-03483dc701f1",
+    "42a6742e-54ad-4365-aa09-496604b1817b",
+    "58b671da-0f55-4cd6-8703-fbeaa155b892",
+    "df08d8e2-a2db-4716-aa83-c918e355704e",
+    "acaea25e-8886-4798-9dea-fb6b4e847763",
+    "41c74d9e-7976-4923-865d-439c39defefc",
+    "78da66f1-17d4-42cc-ac6d-7042b473c745",
+    "5fb87d77-249b-4210-ba29-a454cebc82e1",
+    "65259ed6-2717-4a72-96ba-8cb959d61c2b",
+    "482fc58a-2dce-4b71-8bfc-2b880e84e6ed"
+  ],
+  "queryAccounts": [
+    "cfe6eba6-26e7-4c70-897b-21b50f45e836",
+    "4e55cc6a-65cb-463d-8b15-5e471c7f9d73",
+    "6a903ea1-ee62-4ab8-a8da-595a6fe71a31",
+    "67e3ade1-8c32-410a-b7af-c3a3cc2b8dac",
+    "8fa57228-4fae-419a-8c60-18999c438817",
+    "af252d66-47fe-4951-a14f-7b6fb512f6a6",
+    "864b27e8-c497-4209-b4ce-1106fc3a65f1",
+    "767b504f-d6eb-4b5f-8be8-52eb291518e6",
+    "2c54dfe2-83f2-47f7-9ed4-11e3b0e46db4",
+    "452328f4-7b82-4fee-b4d1-955c73836cc2",
+    "a2598fd0-2ec2-433f-8635-fdd66f33645c",
+    "08b5181e-4a9c-4056-86a6-0d2709a541a2",
+    "6af8613d-6ce7-4c7a-966c-8017c9376a03",
+    "e3fed79d-d989-4a2e-af6c-39f4d3626f18",
+    "2dcaaa42-789d-4483-b4b6-4b026c38737a",
+    "0f57e31a-ae14-4923-b6d5-d7d803074461",
+    "475adab7-bee6-4aef-a7b6-d42743342fff",
+    "6383322f-8271-4dd9-bff2-b687523b7dff",
+    "1d87d056-7fdd-499d-988b-ec14ad75d618",
+    "3e1d8f39-1414-4f1c-9b7b-0190e313cecb"
+  ]
+}

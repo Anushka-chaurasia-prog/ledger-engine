@@ -1,0 +1,15 @@
+# Performance benchmarking profile
+# Disables SQL console logging and outbox scheduler for isolated core-ledger benchmarking
+spring:
+  datasource:
+    hikari:
+      maximum-pool-size: 15
+      minimum-idle: 15
+  jpa:
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: false
+
+scheduler:
+  enabled: false
