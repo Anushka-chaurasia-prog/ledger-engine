@@ -132,10 +132,12 @@ export const Navbar: React.FC<NavbarProps> = ({
 
             <form onSubmit={handleSaveUrl} className="space-y-4">
               <div>
-                <label className="block text-xs font-mono uppercase tracking-wider text-zinc-400 mb-1.5">
+                <label htmlFor="backend-url-input" className="block text-xs font-mono uppercase tracking-wider text-zinc-400 mb-1.5">
                   Spring Boot Base URL
                 </label>
                 <input
+                  id="backend-url-input"
+                  name="backendUrl"
                   type="url"
                   value={tempUrl}
                   onChange={(e) => setTempUrl(e.target.value)}

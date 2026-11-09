@@ -521,7 +521,12 @@ export default function Home() {
                         >
                           <div className="relative flex-1">
                             <span className="absolute left-2.5 top-1.5 text-xs text-zinc-500">₹</span>
+                            <label htmlFor={`deposit-amount-${acc.id}`} className="sr-only">
+                              Deposit Amount
+                            </label>
                             <input
+                              id={`deposit-amount-${acc.id}`}
+                              name="depositAmount"
                               type="number"
                               min="1"
                               value={depositAmountRupees}
@@ -558,10 +563,12 @@ export default function Home() {
             <div className="p-5 rounded-2xl bg-zinc-900 border border-zinc-800 space-y-4">
               {/* Sender Selector */}
               <div>
-                <label className="block text-xs font-mono uppercase text-zinc-400 mb-1.5">
+                <label htmlFor="source-wallet-select" className="block text-xs font-mono uppercase text-zinc-400 mb-1.5">
                   Source Wallet (Debit −)
                 </label>
                 <select
+                  id="source-wallet-select"
+                  name="sourceWalletId"
                   value={fromId}
                   onChange={(e) => setFromId(e.target.value)}
                   className="w-full bg-zinc-950 border border-zinc-800 rounded-xl px-3 py-2 text-xs font-mono text-zinc-200 focus:outline-none focus:border-cyan-500"
@@ -577,10 +584,12 @@ export default function Home() {
 
               {/* Receiver Selector */}
               <div>
-                <label className="block text-xs font-mono uppercase text-zinc-400 mb-1.5">
+                <label htmlFor="destination-wallet-select" className="block text-xs font-mono uppercase text-zinc-400 mb-1.5">
                   Destination Wallet (Credit +)
                 </label>
                 <select
+                  id="destination-wallet-select"
+                  name="destinationWalletId"
                   value={toId}
                   onChange={(e) => setToId(e.target.value)}
                   className="w-full bg-zinc-950 border border-zinc-800 rounded-xl px-3 py-2 text-xs font-mono text-zinc-200 focus:outline-none focus:border-cyan-500"
@@ -596,12 +605,14 @@ export default function Home() {
 
               {/* Amount */}
               <div>
-                <label className="block text-xs font-mono uppercase text-zinc-400 mb-1.5">
+                <label htmlFor="transfer-amount-input" className="block text-xs font-mono uppercase text-zinc-400 mb-1.5">
                   Amount in Rupees (₹)
                 </label>
                 <div className="relative">
                   <span className="absolute left-3 top-2 text-sm text-zinc-400 font-mono">₹</span>
                   <input
+                    id="transfer-amount-input"
+                    name="transferAmountRupees"
                     type="number"
                     min="1"
                     value={amountRupees}
@@ -618,7 +629,7 @@ export default function Home() {
               {/* Idempotency Key */}
               <div>
                 <div className="flex items-center justify-between mb-1.5">
-                  <label className="text-xs font-mono uppercase text-zinc-400">
+                  <label htmlFor="idempotency-key-input" className="text-xs font-mono uppercase text-zinc-400">
                     Idempotency-Key Header
                   </label>
                   <button
@@ -629,6 +640,8 @@ export default function Home() {
                   </button>
                 </div>
                 <input
+                  id="idempotency-key-input"
+                  name="idempotencyKey"
                   type="text"
                   value={idempotencyKey}
                   onChange={(e) => setIdempotencyKey(e.target.value)}

@@ -82,9 +82,9 @@ export class LedgerApiClient {
   private baseUrl: string;
 
   constructor(customUrl?: string) {
-    this.baseUrl = customUrl || (typeof window !== "undefined" ? localStorage.getItem("ledger_api_url") || "" : "");
-    if (!this.baseUrl) {
-      this.baseUrl = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8080";
+    this.baseUrl = customUrl ?? (typeof window !== "undefined" ? localStorage.getItem("ledger_api_url") || "" : "");
+    if (this.baseUrl === undefined || this.baseUrl === null) {
+      this.baseUrl = process.env.NEXT_PUBLIC_API_URL || "";
     }
     // Remove trailing slash if present
     this.baseUrl = this.baseUrl.replace(/\/+$/, "");
