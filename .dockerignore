@@ -1,6 +1,8 @@
 target/
+frontend/
 .git/
 .gitignore
 *.log
 .idea/
 *.iml
+
